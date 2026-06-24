@@ -77,6 +77,17 @@ The system includes modules for:
 
 ---
 
+## Demo
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=SDcmgBUWU2s">
+    <img src="https://img.youtube.com/vi/SDcmgBUWU2s/maxresdefault.jpg" alt="Django SWAP Demo" width="80%"/>
+  </a>
+  <p><em>Click to watch the full system walkthrough on YouTube</em></p>
+</div>
+
+---
+
 ## Public repository
 
 - Repository: https://github.com/FrancoSoilan-DEV/Django-swap
